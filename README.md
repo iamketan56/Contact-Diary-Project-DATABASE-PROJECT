@@ -1,5 +1,6 @@
 # Contact-Diary-Project(DATABASE-PROJECT)
- By Using PHP With DATABASE
+ By 
+ The Project is based on the concept of managing contact details. Talking about the project, there’s no login system in this. The user can easily add new contacts by entering details such as name,mobile, email.
 <b>Snapshot</b>
 <br>
 <br>
