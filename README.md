@@ -4,7 +4,7 @@
 <br>
 <br>
 <b><i>Initially, the Contact list has not any record</b></i><br><br>
-![](https://github.com/iamketan56/Contact-Diary-Project-DATABASE-PROJECT/blob/main/1.PNG)<br>
+![](https://github.com/iamketan56/Contact-Diary-Project-DATABASE-PROJECT/blob/main/new1.PNG)<br>
 <b><i>Creating Contact</b></i>
 ![](https://github.com/iamketan56/Contact-Diary-Project-DATABASE-PROJECT/blob/main/2.PNG)<br>
 <b><i>Contact Added</b></i>
