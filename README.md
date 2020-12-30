@@ -1,6 +1,7 @@
 # Contact-Diary-Project(DATABASE-PROJECT)
- By 
- The Project is based on the concept of managing contact details. Talking about the project, there’s no login system in this. The user can easily add new contacts by entering details such as name,mobile, email.
+ 
+ The Project is based on the concept of managing contact details. Talking about the project, there’s no login system in this. The user can easily add new contacts by entering details such as name,mobile, email.<br>
+ (Using PHP and MYSQL)
 <b>Snapshot</b>
 <br>
 <br>
